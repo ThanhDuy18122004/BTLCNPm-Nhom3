@@ -2,9 +2,6 @@
 
 ## Mô tả: 
 Đây là một ứng dụng desktop dùng để nghe nhạc trực tuyến, hoặc từ thiết bị của bạn
- 
-
-
 
 ## Các tính năng:
 - Đăng nhập / Đăng ký
@@ -12,8 +9,6 @@
     - **Note**: kho nhạc online của mình có thể ngừng hoạt động, lúc đó app sẽ không có những bài nhạc này nữa, nhưng các chức năng khác vẫn bình thường
 - Nghe / chỉnh sửa các bài nhạc được up từ máy 
 - Tạo playlist riêng
-
-
 
 ## UML
 **Activity diagram**
